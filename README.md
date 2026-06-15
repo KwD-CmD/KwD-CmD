@@ -3,4 +3,4 @@
 <h2>Hello 👋</h2>
 </div>
 <h3>My skils </h3>
-<img src="https://skillicons.dev/icons?i=html,css,js,python,github,kali,linux,powershell,wordpress,ai&perline=2">
+<img src="https://skillicons.dev/icons?i=html,css,js,python,github,kali,linux,powershell,wordpress,ai&perline=3">
